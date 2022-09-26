@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/mailru/dbr/dialect"
+	"github.com/lianchengwu/dbrr/dialect"
 )
 
 // Open instantiates a Connection for a given database/sql connection
