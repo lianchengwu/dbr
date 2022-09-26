@@ -1,3 +1,4 @@
+//go:build go1.8
 // +build go1.8
 
 package dbr
@@ -7,7 +8,7 @@ import (
 	"database/sql"
 	"testing"
 
-	"github.com/mailru/dbr/dialect"
+	"github.com/lianchengwu/dbr/dialect"
 	"github.com/stretchr/testify/assert"
 )
 

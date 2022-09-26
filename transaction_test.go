@@ -1,7 +1,7 @@
 package dbr
 
 import (
-	"github.com/mailru/dbr/dialect"
+	"github.com/lianchengwu/dbr/dialect"
 
 	"testing"
 

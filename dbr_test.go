@@ -6,7 +6,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/mailru/dbr/dialect"
+	"github.com/lianchengwu/dbr/dialect"
 	"github.com/stretchr/testify/assert"
 
 	_ "github.com/go-sql-driver/mysql"

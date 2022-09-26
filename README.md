@@ -1,7 +1,7 @@
 dbr (fork of gocraft/dbr) provides additions to Go's database/sql for super fast performance and convenience.
 
 [![Build Status](https://travis-ci.org/mailru/dbr.svg?branch=master)](https://travis-ci.org/mailru/dbr)
-[![Go Report Card](https://goreportcard.com/badge/github.com/mailru/dbr)](https://goreportcard.com/report/github.com/mailru/dbr)
+[![Go Report Card](https://goreportcard.com/badge/github.com/lianchengwu/dbr)](https://goreportcard.com/report/github.com/lianchengwu/dbr)
 [![Coverage Status](https://coveralls.io/repos/github/mailru/dbr/badge.svg?branch=develop)](https://coveralls.io/github/mailru/dbr?branch=develop)
 
 ## Getting Started
